@@ -3,35 +3,3 @@ header{background:#132d57;padding:20px;text-align:center}
 nav a{color:#ffd54a;text-decoration:none;margin:0 8px}
 main{max-width:1100px;margin:auto;padding:40px}
 footer{background:#09162d;padding:20px;text-align:center}
-.hero{
-
-display:flex;
-align-items:center;
-justify-content:space-between;
-gap:60px;
-padding:80px 0;
-
-}
-
-.hero-text{
-
-flex:1;
-
-}
-
-.hero-image{
-
-flex:1;
-text-align:center;
-
-}
-
-@media(max-width:900px){
-
-.hero{
-
-flex-direction:column;
-
-}
-
-}
