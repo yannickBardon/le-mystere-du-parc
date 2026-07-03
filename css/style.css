@@ -3,3 +3,18 @@ header{background:#132d57;padding:20px;text-align:center}
 nav a{color:#ffd54a;text-decoration:none;margin:0 8px}
 main{max-width:1100px;margin:auto;padding:40px}
 footer{background:#09162d;padding:20px;text-align:center}
+.flyer-section{
+    width:90%;
+    max-width:1200px;
+    margin:80px auto;
+    text-align:center;
+}
+
+.flyer{
+    width:100%;
+    height:auto;
+    display:block;
+    margin:auto;
+    border-radius:20px;
+    box-shadow:0 20px 50px rgba(0,0,0,.35);
+}
